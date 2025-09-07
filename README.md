@@ -30,7 +30,7 @@ NumberStringXForm/
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/NumberStringXForm.git
+   git clone https://github.com/shakirkhansn788-maker/Number-And-String-Project-of-JAVA-
 
 
 2.Navigate to the folder:
